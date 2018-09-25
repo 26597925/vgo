@@ -1,0 +1,50 @@
+stun.xten.net  30ms  速度很好
+# source : http://code.google.com/p/natvpn/source/browse/trunk/stun_server_list
+# A list of available STUN server.
+stun.l.google.com:19302
+stun1.l.google.com:19302
+stun2.l.google.com:19302
+stun3.l.google.com:19302
+stun4.l.google.com:19302
+stun01.sipphone.com
+stun.ekiga.net
+stun.fwdnet.net
+stun.ideasip.com
+stun.iptel.org
+stun.rixtelecom.se
+stun.schlund.de
+stunserver.org
+stun.softjoys.com
+stun.voiparound.com
+stun.voipbuster.com
+stun.voipstunt.com
+stun.voxgratia.org
+stun.xten.com
+Public STUN servers
+provserver.televolution.net (out of service)
+sip1.lakedestiny.cordiaip.com (out of service)
+stun1.voiceeclipse.net
+stun01.sipphone.com (out of service)
+stun.callwithus.com
+stun.counterpath.net
+stun.endigovoip.com (out of service)
+stun.ekiga.net (alias for stun01.sipphone.com)
+stun.ideasip.com (no XOR_MAPPED_ADDRESS support)
+stun.internetcalls.com
+stun.ipns.com (out of service)
+stun.noc.ams-ix.net
+stun.phonepower.com (out of service)
+stun.phoneserve.com
+stun.rnktel.com (out of service)
+stun.softjoys.com (no DNS SRV record) (no XOR_MAPPED_ADDRESS support)
+stunserver.org see their usage policy
+stun.sipgate.net
+stun.sipgate.net:10000
+stun.stunprotocol.org
+stun.voip.aebc.com
+stun.voipbuster.com (no DNS SRV record) (no XOR_MAPPED_ADDRESS support)
+stun.voxalot.com (out of service)
+stun.voxgratia.org (no DNS SRV record) (no XOR_MAPPED_ADDRESS support)
+stun.xten.com (out of service)
+numb.viagenie.ca (http://numb.viagenie.ca) (XOR_MAPPED_ADDRESS only with rfc3489bis magic number in transaction ID)
+stun.ipshka.com inside UA-IX zone russsian explanation athttp://www.ipshka.com/main/help/hlp_stun.php
